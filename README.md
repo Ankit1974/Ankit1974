@@ -14,7 +14,7 @@
 🎓 📱 **Mobile App Developer** | ⚛️ **React Native Developer** | 🤖 **ML Enthusiast** | ☕ **Java Developer** | 🌱 **Spring Boot Developer**
 
 
-###  ✨ **Achievements*
+###  ✨ **Achievements**
 - 📱 **Published apps on Google Play Store**, **Amazon App Store**, and **Indus Store**
 - 🥇 **Solved 500+ DSA** problems using Java, strengthening algorithmic expertise
 - 🏆 **Top 400 in TechGig Code Gladiators**, showcasing competitive coding excellence
