@@ -1,23 +1,31 @@
 <h1 align="center">Hi, I'm Ankit Raj 👋</h1>
 
 <div style="display: flex; justify-content: center;">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00A9FF&width=550&lines=React+Native+Developer;JavaScript+%7C+Java;ML+Enthusiast+🤖;Problem+Solver+%F0%9F%A7%91%E2%80%8D%F0%9F%92%BB;TechGig+Code+Gladiators+Top+400;LeetCode+%7C+GFG+500%2B+Problems" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00A9FF&width=550&lines=Full+Stack+Mobile+Application+Developer" />
 </div>
 
 
 ---
 
 ## 👁️ About Me  
-🎓 **Pre-Final Year Software Engineering Student** | 📱 **Mobile App Developer** | 🤖 **ML Enthusiast**  
+👋 I’m a **Final Year Software Engineering Student** with a strong passion for **Mobile Application Development** and **Machine Learning**. I love building innovative applications using **JavaScript, React Native, Firebase** . Alongside mobile development, I also work with **Java** and **Spring Boot** for backend solutions and apply **Low-Level Design (LLD)** principles to build scalable, maintainable systems**. 
 
-👋 I’m a **pre-final year software engineering student** with a strong passion for **mobile application development and machine learning**. I love building innovative applications using **JavaScript, React Native, Firebase, Redux, Context API, and REST API**.  
+
+🎓 📱 **Mobile App Developer** | ⚛️ **React Native Developer** | 🤖 **ML Enthusiast** | ☕ **Java Developer** | 🌱 **Spring Boot Developer**
+
+
+###  ✨ **Achievements*
+- 📱 **Published apps on Google Play Store**, **Amazon App Store**, and **Indus Store**
+- 🥇 **Solved 500+ DSA** problems using Java, strengthening algorithmic expertise
+- 🏆 **Top 400 in TechGig Code Gladiators**, showcasing competitive coding excellence
+- 🎤 **Invited as Speaker at IIT Indore** in the Gaming category
+- 👾 **Ex Co-founder of Viral Gamer**, a gaming organization with 160+ Gamer
 
 ### ✨ **What Drives Me?**  
-- 🛠️ Developing **scalable and user-friendly** mobile apps  
-- 🤖 Exploring **Machine Learning with Python** and **integrating ML models into applications**  
-- 🚀 Constantly learning new technologies and frameworks  
-- 🔍 Improving my **problem-solving** skills  
-- 🏆 **Solved 500+ DSA problems using Java**  
+- 📱 **Building scalable** and user-friendly mobile apps that make a real impact
+- 🧠 **Exploring Machine Learning** and integrating intelligent models into practical applications
+- 🚀 **Continuously learning** and experimenting with new technologies
+- 🌍 **Solving real-world problems** through innovative solutions
 
 I’m always open to **exciting projects and collaborations**. Let’s connect and build something amazing together! 👁️  
 
@@ -31,7 +39,13 @@ I’m always open to **exciting projects and collaborations**. Let’s connect a
 C | Java | JavaScript | Python  
 
 🚀 **Frameworks**  
-React Native | Kotlin  
+React Native | Spring Boot  
+
+🧩 **System Design & Architecture**  
+LLD
+
+🎛️ **Design Patterns**  
+Saga
 
 📚 **Libraries & State Management**  
 Redux | Context API | Pandas  
@@ -40,10 +54,10 @@ Redux | Context API | Pandas
 Machine Learning | Data Analysis | Python for ML  
 
 🗄️ **Databases & Storage**  
-Firebase | MySQL | AsyncStorage  
+Firebase | MySQL | AsyncStorage | AWS | Cloudinary
 
 🌐 **APIs & Tools**  
-RESTful API | Google Maps API | Mapbox API | Retrofit | Cloud Messaging  
+RESTful API | Google Maps API | Mapbox API | Cloud Messaging  
 
 🛠️ **Other Skills**  
 Data Structures & Algorithms | Git | GitHub | OOPs  
@@ -64,6 +78,10 @@ Data Structures & Algorithms | Git | GitHub | OOPs
   <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" />
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+  <img src="https://img.shields.io/badge/SpringBoot-6DB33F?style=for-the-badge&logo=spring&logoColor=white" />
+  <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white" />
+  <img src="https://img.shields.io/badge/Culinary-F4A261?style=for-the-badge&logo=chef&logoColor=white" />
+  <img src="https://img.shields.io/badge/System_Design-FF6F61?style=for-the-badge&logo=archlinux&logoColor=white" />
 </p>
 
 
