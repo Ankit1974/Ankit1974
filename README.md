@@ -19,7 +19,7 @@
 - 🥇 **Solved 500+ DSA** problems using Java, strengthening algorithmic expertise
 - 🏆 **Top 400 in TechGig Code Gladiators**, showcasing competitive coding excellence
 - 🎤 **Invited as Speaker at IIT Indore** in the Gaming category
-- 👾 **Ex Co-founder of Viral Gamer**, a gaming organization with 160+ Gamer
+- 👾 **Ex Co-founder of Viral Gamer**, a gaming organization with 160k+ Gamer
 
 ### ✨ **What Drives Me?**  
 - 📱 **Building scalable** and user-friendly mobile apps that make a real impact
