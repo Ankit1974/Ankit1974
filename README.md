@@ -8,7 +8,7 @@
 ---
 
 ## 👁️ About Me  
-👋 I’m a **Final Year Software Engineering Student** with a strong passion for **Mobile Application Development** and **Machine Learning**. I love building innovative applications using **JavaScript, React Native, Firebase** . Alongside mobile development, I also work with **Java** and **Spring Boot** for backend solutions and apply **Low-Level Design (LLD)** principles to build scalable, maintainable systems**. 
+👋 I’m a **Final Year Software Engineering Student** with a strong passion for **Mobile Application Development** and **Machine Learning**. I love building innovative applications using **JavaScript, React Native, Swift** . Alongside mobile development, I also work with **Golang** for backend solutions and apply **Low-Level Design (LLD)** principles to build scalable, maintainable systems**. 
 
 
 🎓 📱 **Mobile App Developer** | ⚛️ **React Native Developer** | 🤖 **ML Enthusiast** | ☕ **Java Developer** | 🌱 **Spring Boot Developer**
@@ -36,10 +36,10 @@ I’m always open to **exciting projects and collaborations**. Let’s connect a
 ## 📌 Tech Stack  
 
 💻 **Languages**  
-C | Java | JavaScript | Python  
+C | Golang | JavaScript | Python
 
 🚀 **Frameworks**  
-React Native | Spring Boot  
+React Native | Gin 
 
 🧩 **System Design & Architecture**  
 LLD
@@ -54,7 +54,7 @@ Redux | Context API | Pandas
 Machine Learning | Data Analysis | Python for ML  
 
 🗄️ **Databases & Storage**  
-Firebase | MySQL | AsyncStorage | AWS | Cloudinary
+Firebase | MySQL | AsyncStorage | AWS | Cloudinary | Supabase
 
 🌐 **APIs & Tools**  
 RESTful API | Google Maps API | Mapbox API | Cloud Messaging  
