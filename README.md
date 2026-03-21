@@ -8,10 +8,10 @@
 ---
 
 ## 👁️ About Me  
-👋 I’m a **Final Year Software Engineering Student** with a strong passion for **Mobile Application Development** and **Machine Learning**. I love building innovative applications using **JavaScript, React Native, Swift** . Alongside mobile development, I also work with **Golang** for backend solutions and apply **Low-Level Design (LLD)** principles to build scalable, maintainable systems**. 
+👋 I’m a **Final Year Software Engineering Student** with a strong passion for **Mobile Application Development** and **Machine Learning**. I love building innovative applications using **JavaScript, React Native, Swift** . Alongside mobile development, I also work with **Golang** and **Java Developer** for backend solutions and apply **Low-Level Design (LLD)** principles to build scalable, maintainable systems**. 
 
 
-🎓 📱 **Mobile App Developer** | ⚛️ **React Native Developer** | 🤖 **ML Enthusiast** | ☕ **Java Developer** | 🌱 **Spring Boot Developer**
+🎓 📱 **Mobile App Developer** | ⚛️ **React Native Developer** | 🤖 **Applied AI & ML Enthusiast** | 🐹 **Golang Developer** | ☕ **Java Developer** | 🌱 **Spring Boot Developer**
 
 
 ###  ✨ **Achievements**
@@ -23,7 +23,7 @@
 
 ### ✨ **What Drives Me?**  
 - 📱 **Building scalable** and user-friendly mobile apps that make a real impact
-- 🧠 **Exploring Machine Learning** and integrating intelligent models into practical applications
+- 🧠 **Exploring Machine Learning & Applied AI** and integrating intelligent models into practical applications
 - 🚀 **Continuously learning** and experimenting with new technologies
 - 🌍 **Solving real-world problems** through innovative solutions
 
@@ -36,28 +36,25 @@ I’m always open to **exciting projects and collaborations**. Let’s connect a
 ## 📌 Tech Stack  
 
 💻 **Languages**  
-C | Golang | JavaScript | Python
+C | Golang | JavaScript | Java
 
 🚀 **Frameworks**  
 React Native | Gin 
 
 🧩 **System Design & Architecture**  
-LLD
-
-🎛️ **Design Patterns**  
-Saga
+LLD | HLD
 
 📚 **Libraries & State Management**  
-Redux | Context API | Pandas  
+Redux | Context API | Saga | Thunks 
 
-🤖 **Machine Learning**  
-Machine Learning | Data Analysis | Python for ML  
+🤖 **AI**  
+Machine Learning | Data Analysis | Applied AI
 
 🗄️ **Databases & Storage**  
-Firebase | MySQL | AsyncStorage | AWS | Cloudinary | Supabase
+Firebase | MySQL | AsyncStorage | AWS | Cloudinary | Supabase | PostgreSQL
 
 🌐 **APIs & Tools**  
-RESTful API | Google Maps API | Mapbox API | Cloud Messaging  
+RESTful API | GraphQL | Google Maps API | Mapbox API | FCM (Push Notifications) |
 
 🛠️ **Other Skills**  
 Data Structures & Algorithms | Git | GitHub | OOPs  
