@@ -36,7 +36,7 @@ I’m always open to **exciting projects and collaborations**. Let’s connect a
 ## 📌 Tech Stack  
 
 💻 **Languages**  
-C | Golang | JavaScript | Java
+C | Golang | JavaScript | Java | Python
 
 🚀 **Frameworks**  
 React Native | Gin 
@@ -45,7 +45,7 @@ React Native | Gin
 LLD | HLD
 
 📚 **Libraries & State Management**  
-Redux | Context API | Saga | Thunks 
+Redux | Context API | Saga | Thunks
 
 🤖 **AI**  
 Machine Learning | Data Analysis | Applied AI
