@@ -1,164 +1,207 @@
-<h1 align="center">Hi, I'm Ankit Raj 👋</h1>
+<div align="center">
 
-<div style="display: flex; justify-content: center;">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00A9FF&width=550&lines=Full+Stack+Mobile+Application+Developer" />
+# Hi 👋 I'm Ankit Raj
+
+### Full Stack Mobile Engineer • React Native • Golang • AI Enthusiast
+
+Building scalable mobile applications and backend systems that deliver exceptional user experiences.
+
+<br>
+
+<a href="mailto:ankitraj4323@gmail.com">
+<img src="https://img.shields.io/badge/Let's_Talk-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+<a href="https://www.linkedin.com/in/ankit-raj-671684250">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="https://leetcode.com/ankitraj4323">
+<img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white"/>
+</a>
+
 </div>
 
+---
+
+# 🚀 What I Bring To The Table
+
+### 📱 Mobile Engineering
+
+     Building production-grade React Native applications with clean architecture and scalable codebases.
+
+### ⚙️ Backend Development
+
+    Designing performant backend systems using Golang and modern APIs.
+
+### 🏗 System Design
+
+    Applying clean architecture, LLD, and scalable design principles.
+
+### 🤖 AI & Machine Learning
+
+    Exploring practical AI applications and intelligent product experiences.
 
 ---
 
-## 👁️ About Me  
-👋 I’m a **Final Year Software Engineering Student** with a strong passion for **Mobile Application Development** and **Machine Learning**. I love building innovative applications using **JavaScript, React Native, Swift** . Alongside mobile development, I also work with **Golang** and **Java Developer** for backend solutions and apply **Low-Level Design (LLD)** principles to build scalable, maintainable systems**. 
+# 🏆 Highlights
 
+### 📱 Published Applications
 
-🎓 📱 **Mobile App Developer** | ⚛️ **React Native Developer** | 🤖 **Applied AI & ML Enthusiast** | 🐹 **Golang Developer** | ☕ **Java Developer** | 🌱 **Spring Boot Developer**
+- Google Play Store
+- Amazon App Store
+- Indus App Store
 
+### 🥇 Problem Solving
 
-###  ✨ **Achievements**
-- 📱 **Published apps on Google Play Store**, **Amazon App Store**, and **Indus Store**
-- 🥇 **Solved 500+ DSA** problems using Java, strengthening algorithmic expertise
-- 🏆 **Top 400 in TechGig Code Gladiators**, showcasing competitive coding excellence
-- 🎤 **Invited as Speaker at IIT Indore** in the Gaming category
-- 👾 **Ex Co-founder of Viral Gamer**, a gaming organization with 160k+ Gamer
+- Solved 500+ DSA problems
 
-### ✨ **What Drives Me?**  
-- 📱 **Building scalable** and user-friendly mobile apps that make a real impact
-- 🧠 **Exploring Machine Learning & Applied AI** and integrating intelligent models into practical applications
-- 🚀 **Continuously learning** and experimenting with new technologies
-- 🌍 **Solving real-world problems** through innovative solutions
+### 🏆 Competitive Programming
 
-I’m always open to **exciting projects and collaborations**. Let’s connect and build something amazing together! 👁️  
+- Top 400 in TechGig Code Gladiators
 
+### 🎤 Community
 
+- Invited Speaker at IIT Indore
+
+### 👾 Entrepreneurship
+
+- Ex Co-Founder of Viral Gamer
+- Built a gaming community of 160k+ gamers
 
 ---
 
-## 📌 Tech Stack  
+# 💻 Tech Stack
 
-💻 **Languages**  
-C | Golang | JavaScript | Java | Python
+## Mobile
 
-🚀 **Frameworks**  
-React Native | Gin 
+<p>
+<img src="https://skillicons.dev/icons?i=react,firebase"/>
+</p>
 
-🧩 **System Design & Architecture**  
-LLD | HLD
+## Backend
 
-📚 **Libraries & State Management**  
-Redux | Context API | Saga | Thunks
+<p>
+<img src="https://skillicons.dev/icons?i=go,java,spring"/>
+</p>
 
-🤖 **AI**  
-Machine Learning | Data Analysis | Applied AI
+## Database
 
-🗄️ **Databases & Storage**  
-Firebase | MySQL | AsyncStorage | AWS | Cloudinary | Supabase | PostgreSQL
+<p>
+<img src="https://skillicons.dev/icons?i=postgres,mysql,supabase"/>
+</p>
 
-🌐 **APIs & Tools**  
-RESTful API | GraphQL | Google Maps API | Mapbox API | FCM (Push Notifications) |
+## Cloud & DevOps
 
-🛠️ **Other Skills**  
-Data Structures & Algorithms | Git | GitHub | OOPs  
-
-
-<p align="left">
-  <!-- Languages -->
-  <img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=white" />
-  <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white" />
-  <img src="https://img.shields.io/badge/Golang-00ADD8?style=for-the-badge&logo=go&logoColor=white" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-
-  <!-- Mobile & Frontend -->
-  <img src="https://img.shields.io/badge/React_Native-61DAFB?style=for-the-badge&logo=react&logoColor=white" />
-  <img src="https://img.shields.io/badge/Redux-764ABC?style=for-the-badge&logo=redux&logoColor=white" />
-
-  <!-- Backend & APIs -->
-  <img src="https://img.shields.io/badge/SpringBoot-6DB33F?style=for-the-badge&logo=spring&logoColor=white" />
-  <img src="https://img.shields.io/badge/GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white" />
-  <img src="https://img.shields.io/badge/REST_API-02569B?style=for-the-badge&logo=api&logoColor=white" />
-
-  <!-- Databases & Storage -->
-  <img src="https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white" />
-  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
-  <img src="https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white" />
-  <img src="https://img.shields.io/badge/AsyncStorage-323330?style=for-the-badge&logo=react&logoColor=white" />
-
-  <!-- Cloud & Services -->
-  <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" />
-  <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white" />
-  <img src="https://img.shields.io/badge/Cloudinary-3448C5?style=for-the-badge&logo=cloudinary&logoColor=white" />
-  <img src="https://img.shields.io/badge/FCM-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" />
-
-  <!-- Maps -->
-  <img src="https://img.shields.io/badge/Google_Maps-4285F4?style=for-the-badge&logo=googlemaps&logoColor=white" />
-  <img src="https://img.shields.io/badge/Mapbox-000000?style=for-the-badge&logo=mapbox&logoColor=white" />
-
-  <!-- AI -->
-  <img src="https://img.shields.io/badge/Applied_AI-FF6F00?style=for-the-badge&logo=ai&logoColor=white" />
-  <img src="https://img.shields.io/badge/Machine_Learning-FF6F00?style=for-the-badge&logo=ai&logoColor=white" />
-  <img src="https://img.shields.io/badge/Data_Analysis-4CAF50?style=for-the-badge&logo=python&logoColor=white" />
-
-  <!-- Tools -->
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
-  <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" />
-  <img src="https://img.shields.io/badge/System_Design-FF6F61?style=for-the-badge&logo=archlinux&logoColor=white" />
+<p>
+<img src="https://skillicons.dev/icons?i=aws,docker,git,github"/>
 </p>
 
 ---
+
+# 🌟 Featured Work
+
+## 🎮 GG+ — Gaming Galaxy Plus
+
+A one-stop ecosystem for gamers and esports enthusiasts.
+
+### Key Features
+
+✅ Gaming News
+
+✅ Reels Feed
+
+✅ Push Notifications
+
+✅ Gaming Jobs
+
+✅ Events & Tournaments
+
+✅ Offline Support
+
+**Tech Stack**
+
+React Native • Firebase • Redux
+
+---
+
+## 🛒 Door Step
+
+Modern E-Commerce Mobile Application
+
+### Features
+
+✅ Authentication
+
+✅ Product Search
+
+✅ Order Tracking
+
+✅ Payments
+
+✅ Push Notifications
+
+**Tech Stack**
+
+React Native • Golang • PostgreSQL
+
+---
+
+# 📈 GitHub Analytics
+
+<table>
+<tr>
+<td>
+
+<img src="https://github-readme-stats.vercel.app/api?username=Ankit1974&show_icons=true&theme=tokyonight&count_private=true&include_all_commits=true"/>
+
+</td>
+<td>
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Ankit1974&theme=tokyonight"/>
+
+</td>
+</tr>
+</table>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Ankit1974&show_icons=true&theme=radical&cache_seconds=86400" height="160px"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Ankit1974&theme=radical" height="160px"/>
-</p>
-
-
-
----
-## 📌 Pinned Projects  
-
-### 🔹 GG+ (Gaming Galaxy Plus) 🎮
-GG+ is a app designed for gaming and **esports enthusiasts, offering a one-stop platform for news, events, jobs, and more**.
-
-- 🔒 **Secure authentication** using Firebase for user login & signup
-- 🗂 **Seamless navigation** with stack & bottom tab navigation for smooth browsing
-- 📰 **Real-time gaming news** featuring BGMI updates, esports highlights & trending topics
-- 🎥 **Reels & video content** with autoplay functionality and progress indicators
-- 📢 **Smart notifications** for job alerts, news updates, and upcoming events
-- 🌐 **Trading & global trends section** showcasing the latest gaming discussions worldwide
-- 📶 **Offline support & network detection** for uninterrupted user experience
-
-### 🔹 Door Step 🛒  
-An **e-commerce mobile app** offering:  
-- 👤 **Secure authentication** & user profiles  
-- 🚚 **Real-time order tracking** for seamless shopping  
-- 💳 **Seamless payment integration** for secure transactions  
-- 🔍 **Smart product search & filtering** for easy navigation  
-- 🔔 **Push notifications** for offers & order updates  
-
-
-
----
-
-## 🎯 LeetCode
-
-<p align="left">
-  <img src="https://leetcard.jacoblin.cool/ankitraj4323?theme=dark&font=Montserrat" width="45%" />
-</p>
- 
-🔹 **LeetCode Profile:** [Click Here](https://leetcode.com/ankitraj4323/)  
-
----
-
-### 📬 **Connect with Me**
-<p align="left">
-  <a href="https://www.linkedin.com/in/ankit-raj-671684250/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="mailto:ankitraj4323@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
+  <img width="95%"
+    src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Ankit1974&theme=tokyonight"/>
 </p>
 
 ---
 
+# 🎯 Coding Journey
+
+<p align="center">
+
+<img src="https://leetcard.jacoblin.cool/ankitraj4323?theme=dark&font=Montserrat"/>
+
+</p>
+
+---
+
+# 🌱 Currently Focused On
+
+```yaml
+Building:
+  - Production-grade Mobile Applications
+
+Learning:
+  - System Design
+  - Machine Learning
+  - Applied AI
+
+Exploring:
+  - Backend Architecture
+  - Scalable Systems
+  - AI Products
+```
+
+---
+
+<div align="center">
+
+### ⭐ Building products that people love.
+
+</div>
